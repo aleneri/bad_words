@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "bad_words"
-  s.version     = "0.1.6"
+  s.version     = "0.1.7"
   s.description = "A simple gem to clean string of bad words!"
   s.summary     = "Bad Words"
   s.author      = "Alessandro Neri"
